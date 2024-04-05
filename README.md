@@ -1,6 +1,6 @@
 ## Olá, Meu nome é Erick Barbosa 
 
-Sou professor de tecnologia e desenvolvedor especializado em C# e ASP.NET .NET. Estou sempre explorando novas tecnologias e compartilhando conhecimento com meus alunos e colegas de trabalho. 🚀
+Sou professor de tecnologia e desenvolvedor especializado em C# e ASP.NET . Estou sempre explorando novas tecnologias e compartilhando conhecimento com meus alunos e colegas de trabalho. 🚀
 
 ### Áreas de Interesse:
 - Desenvolvimento de Aplicações Web com ASP.NET MVC e ASP.NET Core
