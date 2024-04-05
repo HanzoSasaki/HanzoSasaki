@@ -1,4 +1,4 @@
-## Olá, Meu nome é Erick Barbosa mais conhecido como Hanzo
+## Olá, Meu nome é Erick Barbosa 
 
 Sou professor de tecnologia e desenvolvedor especializado em C# e ASP.NET .NET. Estou sempre explorando novas tecnologias e compartilhando conhecimento com meus alunos e colegas de trabalho. 🚀
 
