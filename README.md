@@ -33,6 +33,6 @@ Sou professor de tecnologia e desenvolvedor especializado em **C# e ASP.NET**. E
 - LinkedIn: [Erick Barbosa](https://www.linkedin.com/in/erick-barbosaragnarsoft/)
 - E-mail: [ErickbSasaki@gmail.com](mailto:ErickbSasaki@gmail.com)
 
----
+
 
 
