@@ -35,4 +35,4 @@ Sou professor de tecnologia e desenvolvedor especializado em **C# e ASP.NET**. E
 
 ---
 
-⭐️ Feito com ❤️ por [Erick Barbosa](https://github.com/seunome)
+
