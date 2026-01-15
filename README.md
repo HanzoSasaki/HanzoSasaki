@@ -113,20 +113,8 @@ const myCode: DevApproach = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
 </div>
-
 ---
-
-## 📫 Conecte-se Comigo
-
 <div align="center">
-**📍 Disponível para projetos e colaborações**
-</div>
-
----
-
-<div align="center">
-
 **"Transformando problemas em soluções, processos em eficiência"**  
-*TypeScript • Node.js • React • Vue • Next.js • Automation*
-
+**📍 Disponível para projetos e colaborações**
 </div>
