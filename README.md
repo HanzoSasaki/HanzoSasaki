@@ -3,17 +3,14 @@
 *TypeScript • Node.js • React • Vue • Next.js • Automation*
 
 <div align="center">
-
- <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
-
-
+ <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python,cs,dotnet" alt="Tech Stack" height="40" />
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Professor de tecnologia e desenvolvedor full-stack com **6 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados.
+Professor de tecnologia e desenvolvedor full-stack com **6 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados. Experiência sólida também em **C#/.NET**, com transição para stack moderna JS/TS.
 
 > *"Código limpo hoje, produtividade constante amanhã."*
 
@@ -21,36 +18,15 @@ Professor de tecnologia e desenvolvedor full-stack com **6 anos de experiência*
 
 ## 🛠️ Tech Stack
 
-### **💻 Backend & APIs**
-```typescript
-const backendStack = {
-  primary: ['Node.js', 'TypeScript', 'Express'],
-  databases: ['Firebase', 'MongoDB', 'SQL Server'],
-  tools: ['Jest', 'Postman', 'Swagger']
-};
-```
-
-### **🎨 Frontend & UI**
-```typescript
-const frontendStack = {
-  frameworks: ['React', 'Vue', 'Next.js'],
-  styling: ['Tailwind CSS', 'Styled Components'],
-  state: ['Zustand', 'Pinia', 'Context API']
-};
-```
-
-### **🤖 Automação & Análise**
-```python
-automation_tools = {
-  languages: ['Python', 'TypeScript', 'JavaScript'],
-  data: ['Pandas', 'NumPy', 'Excel'],
-  scripting: ['Node.js CLI', 'Python Scripts']
-}
-```
-
----
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
 
 ---
 
@@ -71,46 +47,30 @@ automation_tools = {
 
 ---
 
-## 🏆 Destaques
+## 🚀 Projetos em Destaque
 
-### **TypeScript Specialist**
-```typescript
-// Type-safe development approach
-interface DevApproach {
-  typeSafety: true;
-  scalability: true;
-  maintainability: true;
-  automation: true;
-}
-
-const myCode: DevApproach = {
-  typeSafety: true,   // ✅ Catch errors early
-  scalability: true,  // ✅ Easy to scale and maintain
-  maintainability: true, // ✅ Clean architecture
-  automation: true    // ✅ Reliable automation scripts
-};
-```
-
-### **Full-Stack Projects**
-| Projeto | Stack | Status |
-|---------|-------|--------|
-| **E-commerce Platform** | Next.js + TypeScript + Node.js | 🚀 Produção |
-| **CRM System** | Vue 3 + Express + Firebase | 📊 Em uso |
-| **Data Automation** | Python + Node.js + React | 🤖 Ativo |
+| Projeto | Status | Stack | Descrição |
+|---------|--------|-------|-----------|
+| **Analytics E-commerce** | ✅ Pronto | Python • React • Firebase | Sistema de análise de dados para e-commerce |
+| **Gestão de Estoque** | 🚀 Desenvolvendo | React Native • Node.js • MongoDB | Sistema mobile/desktop com comunicação em tempo real |
+| **Landing Pages** | ✅ Pronto | Next.js • TypeScript • Tailwind | Plataforma de criação de landing pages |
+| **Gestor Financeiro AI** | 🔄 Em desenvolvimento | Python • FastAPI • React • OpenAI | Gestor financeiro com integração de IA |
 
 ---
 
-## 📈 Automação & Processos
+## 🤝 Contato
 
-### **Áreas de Foco**
-- 🔄 **Automação de Workflows**
-- 📊 **ETL & Data Processing**
-- 🤖 **CLI Tools & Scripts**
-- 🔗 **API Integrations**
+<div align="center">
+  <a href="mailto:ErickbSasaki@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ErickbSasaki@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### **Contato**
-<div align="left">
-  [![Email](https://img.shields.io/badge/-ErickbSasaki@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ErickbSasaki@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5515991174127)
  
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <strong>✨ Transformando ideias em soluções, dados em decisões ✨</strong>
 </div>
