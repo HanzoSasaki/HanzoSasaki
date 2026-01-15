@@ -4,9 +4,8 @@
 
 <div align="center">
 
+ <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
 
-[![Email](https://img.shields.io/badge/-ErickbSasaki@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ErickbSasaki@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5515991174127)
 
 </div>
 
@@ -109,7 +108,9 @@ const myCode: DevApproach = {
 - 🤖 **CLI Tools & Scripts**
 - 🔗 **API Integrations**
 
-### **Tecnologias Principais**
+### **Contato**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
+  [![Email](https://img.shields.io/badge/-ErickbSasaki@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ErickbSasaki@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5515991174127)
+ 
 </div>
