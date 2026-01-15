@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Professor de tecnologia e desenvolvedor full-stack com **+4 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados.
+Professor de tecnologia e desenvolvedor full-stack com **6 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados.
 
 > *"Código limpo hoje, produtividade constante amanhã."*
 
@@ -63,7 +63,7 @@ automation_tools = {
 - **Gestão de TI** – Fatec
 
 ### **🔧 Experiência Técnica**
-- **TypeScript/JavaScript**: 4+ anos em produção
+- **TypeScript/JavaScript**: 6 anos em produção
 - **Node.js & Express**: APIs RESTful e microsserviços
 - **React/Vue/Next.js**: Interfaces modernas e responsivas
 - **C#/.NET**: Experiência anterior, transição para stack JS/TS
