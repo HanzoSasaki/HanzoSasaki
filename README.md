@@ -1,38 +1,138 @@
-# Olá, Meu nome é Erick Barbosa! 👋
+# 👨‍💻 Erick Barbosa  
+### **Full-Stack Developer & Tech Educator**  
+*TypeScript • Node.js • React • Vue • Next.js • Automation*
 
-[![Linkedin Badge](https://img.shields.io/badge/-Erick%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-barbosaragnarsoft/)](https://www.linkedin.com/in/erick-barbosaragnarsoft/)
-[![Gmail Badge](https://img.shields.io/badge/-ErickbSasaki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ErickbSasaki@gmail.com)](mailto:ErickbSasaki@gmail.com)
-
-Sou professor de tecnologia e desenvolvedor especializado em **C# e ASP.NET**. Estou sempre explorando novas tecnologias e compartilhando conhecimento com meus alunos e colegas de trabalho. 🚀
-
-## 🚀 Áreas de Interesse
-
-- Desenvolvimento de Aplicações Web com ASP.NET MVC e ASP.NET Core
-- Programação em C#
-- Banco de Dados SQL Server
-- Arquitetura de Software
-- Integração de Sistemas e APIs RESTful
-
-## 🛠 Tecnologias e Ferramentas
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 💼 Certificações
-
-- Gestão de Tecnologia da Informação - Fatec
-- Engenharia da Computação - EEP
-- Engenharia de Software - USP Esalq
-
-## 📫 Contato
-
-- LinkedIn: [Erick Barbosa](https://www.linkedin.com/in/erick-barbosaragnarsoft/)
-- E-mail: [ErickbSasaki@gmail.com](mailto:ErickbSasaki@gmail.com)
+<div align="center">
 
 
+[![Email](https://img.shields.io/badge/-ErickbSasaki@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ErickbSasaki@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5515991174127)
+
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Professor de tecnologia e desenvolvedor full-stack com **+4 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados.
+
+> *"Código limpo hoje, produtividade constante amanhã."*
+
+---
+
+## 🛠️ Tech Stack
+
+### **💻 Backend & APIs**
+```typescript
+const backendStack = {
+  primary: ['Node.js', 'TypeScript', 'Express'],
+  databases: ['Firebase', 'MongoDB', 'SQL Server'],
+  tools: ['Jest', 'Postman', 'Swagger']
+};
+```
+
+### **🎨 Frontend & UI**
+```typescript
+const frontendStack = {
+  frameworks: ['React', 'Vue', 'Next.js'],
+  styling: ['Tailwind CSS', 'Styled Components'],
+  state: ['Zustand', 'Pinia', 'Context API']
+};
+```
+
+### **🤖 Automação & Análise**
+```python
+automation_tools = {
+  languages: ['Python', 'TypeScript', 'JavaScript'],
+  data: ['Pandas', 'NumPy', 'Excel'],
+  scripting: ['Node.js CLI', 'Python Scripts']
+}
+```
+
+---
 
 
+
+---
+
+## 💼 Experiência & Formação
+
+### **🎓 Formação**
+- **Engenharia de Software** – USP Esalq
+- **Engenharia da Computação** – EEP  
+- **Gestão de TI** – Fatec
+
+### **🔧 Experiência Técnica**
+- **TypeScript/JavaScript**: 4+ anos em produção
+- **Node.js & Express**: APIs RESTful e microsserviços
+- **React/Vue/Next.js**: Interfaces modernas e responsivas
+- **C#/.NET**: Experiência anterior, transição para stack JS/TS
+- **Firebase/MongoDB**: Bancos NoSQL e real-time
+- **Python/Pandas**: Automação e análise de dados
+
+---
+
+## 🏆 Destaques
+
+### **TypeScript Specialist**
+```typescript
+// Type-safe development approach
+interface DevApproach {
+  typeSafety: true;
+  scalability: true;
+  maintainability: true;
+  automation: true;
+}
+
+const myCode: DevApproach = {
+  typeSafety: true,   // ✅ Catch errors early
+  scalability: true,  // ✅ Easy to scale and maintain
+  maintainability: true, // ✅ Clean architecture
+  automation: true    // ✅ Reliable automation scripts
+};
+```
+
+### **Full-Stack Projects**
+| Projeto | Stack | Status |
+|---------|-------|--------|
+| **E-commerce Platform** | Next.js + TypeScript + Node.js | 🚀 Produção |
+| **CRM System** | Vue 3 + Express + Firebase | 📊 Em uso |
+| **Data Automation** | Python + Node.js + React | 🤖 Ativo |
+
+---
+
+## 📈 Automação & Processos
+
+### **Áreas de Foco**
+- 🔄 **Automação de Workflows**
+- 📊 **ETL & Data Processing**
+- 🤖 **CLI Tools & Scripts**
+- 🔗 **API Integrations**
+
+### **Tecnologias Principais**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
+</div>
+
+---
+
+## 📫 Conecte-se Comigo
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991174127)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanzoSasaki)
+
+**📍 Disponível para projetos e colaborações**
+
+</div>
+
+---
+
+<div align="center">
+
+**"Transformando problemas em soluções, processos em eficiência"**  
+*TypeScript • Node.js • React • Vue • Next.js • Automation*
+
+</div>
