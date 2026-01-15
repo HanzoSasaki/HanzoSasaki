@@ -113,8 +113,3 @@ const myCode: DevApproach = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
 </div>
----
-<div align="center">
-**"Transformando problemas em soluções, processos em eficiência"**  
-**📍 Disponível para projetos e colaborações**
-</div>
