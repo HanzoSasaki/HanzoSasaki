@@ -110,6 +110,6 @@ const myCode: DevApproach = {
 - 🔗 **API Integrations**
 
 ### **Tecnologias Principais**
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,next,tailwind,express,firebase,python" alt="Tech Stack" height="40" />
 </div>
