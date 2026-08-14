@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Professor de tecnologia e desenvolvedor full-stack com **6 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados. Experiência sólida também em **C#/.NET**, com transição para stack moderna JS/TS.
+Professor de tecnologia e desenvolvedor full-stack com **8 anos de experiência**. Especialista em criar soluções eficientes com **TypeScript** e **Node.js**, apaixonado por automação de processos e análise de dados. Experiência sólida também em **C#/.NET**, com transição para stack moderna JS/TS.
 
 > *"Código limpo hoje, produtividade constante amanhã."*
 
